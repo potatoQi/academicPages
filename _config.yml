@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qixing Zhou"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Qixing Zhou"
   pronouns         : # example: "she/her"  
-  bio              : # example: "Tsinghua SAIL Group"
+  bio              : "xxx Group"
   location         : "Chongqing, China"
   employer         : "Chongqing University"
   uri              : # URL

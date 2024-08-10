@@ -13,7 +13,9 @@ I am a junior student from Chongqing University. My research area for the past y
 
 **An Epigraph Approach for Distributed Economic
 Dispatch in General Dynamic Directed Networks**
+
 Keke Zhang, Qixing Zhou, Qingguo Lu, Zheng Wang, Huaqing Li
+
 - asd
 - aad
 
