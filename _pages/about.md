@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior student from Chongqing University. My research area for the past year has been Distributed Optimization Algorithms. My current research interests are Large Language Models.
+I am a junior student from Chongqing University. My research area are Distributed Optimization Algorithms and Large Language Models.
 
 ## Email
 
